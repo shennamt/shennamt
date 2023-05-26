@@ -1,4 +1,4 @@
-<h2>Hey there, I'm Shenna!</h2>
+<h2>Hey there, I'm Shenna.</h2>
 <img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmU1MDgwZTdlYzU0YzA1MjE1NWJhY2YxMTBlYjVlZjNmNWExOWYyOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/KRfBgRKoKuXno1Sb4D/giphy.gif" width="230">
 
 <p>Open to work! Connect with me on <a href="https://www.linkedin.com/in/shennamt/">LinkedIn
