@@ -34,7 +34,6 @@ const shen = {
         "web dev",
         "green tech",
         "learning Angular",
-        "prog metal",
         "the Basil plant i can't seem to keep alive",
     ]
 }
